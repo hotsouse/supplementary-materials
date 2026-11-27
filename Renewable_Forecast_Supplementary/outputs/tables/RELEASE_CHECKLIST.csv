@@ -1,0 +1,12 @@
+criterion,status,evidence,reference
+raw_integrity,PASS,Source SHA256 unchanged; legacy preserved,outputs/PACKAGE_INTEGRITY.json
+forecast_arithmetic,PASS,130 rows; nonnegative; component means reconcile,tests/test_forecast.py
+calibration_chronology,PASS,Each stored forecast selected at own origin; only target<=T errors,tests/test_release.py
+AR_parameter_variance,IMPLEMENTED_APPROXIMATION,First-order delta approximation; finite-sample accuracy not guaranteed,src/renewable/uncertainty.py
+selection_objective,PASS,Generation GWh loss for capacity x CF candidates; target cutoffs enforced,outputs/tables/MODEL_SELECTION.csv
+universal_accuracy_improvement,NOT_ESTABLISHED,"See paired country/horizon comparisons, including losses",outputs/tables/PAIRED_IMPROVEMENTS.csv
+95pct_empirical_coverage,NOT_VALIDATED,Too few calibration errors; conditional MC quantiles are not validated risk limits,outputs/tables/CALIBRATION_VALIDATION.csv
+2050_coverage,NOT_IDENTIFIABLE_FROM_HISTORY,No 26-year independent test; scenarios have no probability weights,outputs/tables/MANAGEMENT_FORECAST.csv
+source_conflicts,OPEN_SOURCE_VERIFICATION,UZ capacity/generation inconsistencies and TM missing solar capacity retained,outputs/tables/DATA_QUALITY_AUDIT.csv
+real_time_vintages,UNAVAILABLE,Historical publication vintages and lags absent from supplied export,Supplementary_Color_Figure_Methods.docx
+structural_constraints,OPEN_DATA_DEPENDENCY,"Plant pipeline, ages, grid, demand and curtailment needed for a planning model",Supplementary_Color_Figure_Methods.docx

@@ -1,0 +1,71 @@
+country,component,test,statistic,p_value,n,reason,model
+Kazakhstan,hydro_other,ADF_fixed_lag1,-1.378214234925948,0.5926747853005587,25,"Exploratory, low power, no automatic break-driven deletion",
+Kazakhstan,hydro_other,KPSS_fixed_lag1,0.7185502711546395,0.011859066258669131,25,"Exploratory, low power, no automatic break-driven deletion",
+Kazakhstan,hydro_other,CUSUM_linear_residual,0.8853692818194042,0.4132454110362815,25,"Exploratory, low power, no automatic break-driven deletion",
+Kazakhstan,cap_solar,ADF_fixed_lag1,-1.1137241637409268,0.7095679509571575,25,"Exploratory, low power, no automatic break-driven deletion",
+Kazakhstan,cap_solar,KPSS_fixed_lag1,0.8878151373985267,0.01,25,"Exploratory, low power, no automatic break-driven deletion",
+Kazakhstan,cap_solar,CUSUM_linear_residual,1.2867742238079765,0.07291381958419114,25,"Exploratory, low power, no automatic break-driven deletion",
+Kazakhstan,cap_wind,ADF_fixed_lag1,-0.6367569973909967,0.8624583027239899,25,"Exploratory, low power, no automatic break-driven deletion",
+Kazakhstan,cap_wind,KPSS_fixed_lag1,0.8133241076007481,0.01,25,"Exploratory, low power, no automatic break-driven deletion",
+Kazakhstan,cap_wind,CUSUM_linear_residual,1.188873922883794,0.11837440911435415,25,"Exploratory, low power, no automatic break-driven deletion",
+Kazakhstan,hydro_other,Ljung_Box_rolling_errors,1.3569355038150945,0.715659592302768,17,"Forecast errors, not fitted residuals; descriptive",ar1
+Kazakhstan,hydro_other,Ljung_Box_rolling_errors,1.5043759182769167,0.6812607395720363,16,"Forecast errors, not fitted residuals; descriptive",ar1trend
+Kazakhstan,hydro_other,Ljung_Box_rolling_errors,1.0742781097595648,0.7832867953494154,17,"Forecast errors, not fitted residuals; descriptive",drift
+Kazakhstan,hydro_other,Ljung_Box_rolling_errors,1.537590710561299,0.6736219812146842,17,"Forecast errors, not fitted residuals; descriptive",ets_damped
+Kazakhstan,hydro_other,Ljung_Box_rolling_errors,8.207015592503495,0.0419215640321036,17,"Forecast errors, not fitted residuals; descriptive",linear
+Kazakhstan,hydro_other,Ljung_Box_rolling_errors,9.907030867405282,0.019373165180178276,17,"Forecast errors, not fitted residuals; descriptive",mean
+Kazakhstan,hydro_other,Ljung_Box_rolling_errors,10.916883954791553,0.012183911132077225,17,"Forecast errors, not fitted residuals; descriptive",mean10
+Kazakhstan,hydro_other,Ljung_Box_rolling_errors,7.900743829005712,0.04810819489686474,17,"Forecast errors, not fitted residuals; descriptive",mean5
+Kazakhstan,hydro_other,Ljung_Box_rolling_errors,1.0900874867952426,0.7794675267461781,17,"Forecast errors, not fitted residuals; descriptive",naive
+Kyrgyzstan,hydro_other,ADF_fixed_lag1,-4.576761585134637,0.00014252657691010177,25,"Exploratory, low power, no automatic break-driven deletion",
+Kyrgyzstan,hydro_other,KPSS_fixed_lag1,0.04663204818024481,0.1,25,"Exploratory, low power, no automatic break-driven deletion",
+Kyrgyzstan,hydro_other,CUSUM_linear_residual,0.49018143080511306,0.9698797275411729,25,"Exploratory, low power, no automatic break-driven deletion",
+Kyrgyzstan,cap_solar,ADF_fixed_lag1,-0.2085144140570749,0.9374990827536352,25,"Exploratory, low power, no automatic break-driven deletion",
+Kyrgyzstan,cap_solar,KPSS_fixed_lag1,0.41429401510749586,0.07099395900538971,25,"Exploratory, low power, no automatic break-driven deletion",
+Kyrgyzstan,cap_solar,CUSUM_linear_residual,1.1482294061862248,0.14311865113042818,25,"Exploratory, low power, no automatic break-driven deletion",
+Kyrgyzstan,cap_wind,not_testable,,,25,short or constant series,
+Kyrgyzstan,hydro_other,Ljung_Box_rolling_errors,6.844551467019574,0.0770209984589234,17,"Forecast errors, not fitted residuals; descriptive",ar1
+Kyrgyzstan,hydro_other,Ljung_Box_rolling_errors,7.145176949153513,0.06741165826896663,16,"Forecast errors, not fitted residuals; descriptive",ar1trend
+Kyrgyzstan,hydro_other,Ljung_Box_rolling_errors,5.359284397583128,0.14730144440664444,17,"Forecast errors, not fitted residuals; descriptive",drift
+Kyrgyzstan,hydro_other,Ljung_Box_rolling_errors,6.245181251230663,0.10027220812609612,17,"Forecast errors, not fitted residuals; descriptive",ets_damped
+Kyrgyzstan,hydro_other,Ljung_Box_rolling_errors,10.013336552433595,0.01845310939422327,17,"Forecast errors, not fitted residuals; descriptive",linear
+Kyrgyzstan,hydro_other,Ljung_Box_rolling_errors,9.088646224898149,0.02813521134737142,17,"Forecast errors, not fitted residuals; descriptive",mean
+Kyrgyzstan,hydro_other,Ljung_Box_rolling_errors,9.804890125420757,0.020299570531924813,17,"Forecast errors, not fitted residuals; descriptive",mean10
+Kyrgyzstan,hydro_other,Ljung_Box_rolling_errors,11.124592097117809,0.011070887963570137,17,"Forecast errors, not fitted residuals; descriptive",mean5
+Kyrgyzstan,hydro_other,Ljung_Box_rolling_errors,5.2742599378452,0.15278137186549978,17,"Forecast errors, not fitted residuals; descriptive",naive
+Tajikistan,hydro_other,ADF_fixed_lag1,-0.5700301400009374,0.8776112154438557,25,"Exploratory, low power, no automatic break-driven deletion",
+Tajikistan,hydro_other,KPSS_fixed_lag1,1.085585116775786,0.01,25,"Exploratory, low power, no automatic break-driven deletion",
+Tajikistan,hydro_other,CUSUM_linear_residual,1.0021295666703958,0.26772388233314004,25,"Exploratory, low power, no automatic break-driven deletion",
+Tajikistan,cap_solar,ADF_fixed_lag1,-0.38924947208076116,0.9118783157962533,25,"Exploratory, low power, no automatic break-driven deletion",
+Tajikistan,cap_solar,KPSS_fixed_lag1,0.7486033519553075,0.01,25,"Exploratory, low power, no automatic break-driven deletion",
+Tajikistan,cap_solar,CUSUM_linear_residual,1.3823057660189493,0.04378772395019397,25,"Exploratory, low power, no automatic break-driven deletion",
+Tajikistan,cap_wind,not_testable,,,25,short or constant series,
+Tajikistan,hydro_other,Ljung_Box_rolling_errors,0.9641561444567825,0.8099241750871282,17,"Forecast errors, not fitted residuals; descriptive",ar1
+Tajikistan,hydro_other,Ljung_Box_rolling_errors,2.888203115635061,0.4091851650451396,17,"Forecast errors, not fitted residuals; descriptive",ar1trend
+Tajikistan,hydro_other,Ljung_Box_rolling_errors,1.073130596499116,0.7835641006604767,17,"Forecast errors, not fitted residuals; descriptive",drift
+Tajikistan,hydro_other,Ljung_Box_rolling_errors,2.344168370643832,0.5041122654577952,17,"Forecast errors, not fitted residuals; descriptive",ets_damped
+Tajikistan,hydro_other,Ljung_Box_rolling_errors,17.448869150956696,0.0005713275915005108,17,"Forecast errors, not fitted residuals; descriptive",linear
+Tajikistan,hydro_other,Ljung_Box_rolling_errors,24.041834001594616,2.4482623675366062e-05,17,"Forecast errors, not fitted residuals; descriptive",mean
+Tajikistan,hydro_other,Ljung_Box_rolling_errors,22.77590433717997,4.496758471258133e-05,17,"Forecast errors, not fitted residuals; descriptive",mean10
+Tajikistan,hydro_other,Ljung_Box_rolling_errors,13.563884889086333,0.003563092948126292,17,"Forecast errors, not fitted residuals; descriptive",mean5
+Tajikistan,hydro_other,Ljung_Box_rolling_errors,1.0764475773985114,0.782762557173109,17,"Forecast errors, not fitted residuals; descriptive",naive
+Turkmenistan,hydro_other,not_testable,,,25,short or constant series,
+Turkmenistan,cap_wind,not_testable,,,25,short or constant series,
+Uzbekistan,hydro_other,ADF_fixed_lag1,-2.080170161889294,0.25256266843741715,25,"Exploratory, low power, no automatic break-driven deletion",
+Uzbekistan,hydro_other,KPSS_fixed_lag1,0.2985148152522088,0.1,25,"Exploratory, low power, no automatic break-driven deletion",
+Uzbekistan,hydro_other,CUSUM_linear_residual,0.8556971914532422,0.45670540016819433,25,"Exploratory, low power, no automatic break-driven deletion",
+Uzbekistan,cap_solar,ADF_fixed_lag1,1.123252181706552,0.9954102655653374,25,"Exploratory, low power, no automatic break-driven deletion",
+Uzbekistan,cap_solar,KPSS_fixed_lag1,0.4126304734053835,0.07171100284250712,25,"Exploratory, low power, no automatic break-driven deletion",
+Uzbekistan,cap_solar,CUSUM_linear_residual,0.9416161199346189,0.3378884449211179,25,"Exploratory, low power, no automatic break-driven deletion",
+Uzbekistan,cap_wind,ADF_fixed_lag1,1.7046441701823705,0.9981398941312365,25,"Exploratory, low power, no automatic break-driven deletion",
+Uzbekistan,cap_wind,KPSS_fixed_lag1,0.33093130245360997,0.1,25,"Exploratory, low power, no automatic break-driven deletion",
+Uzbekistan,cap_wind,CUSUM_linear_residual,0.8839052082268924,0.4153324042029729,25,"Exploratory, low power, no automatic break-driven deletion",
+Uzbekistan,hydro_other,Ljung_Box_rolling_errors,2.7538824174570937,0.4311480647235991,17,"Forecast errors, not fitted residuals; descriptive",ar1
+Uzbekistan,hydro_other,Ljung_Box_rolling_errors,3.025779454487631,0.38766754439586454,17,"Forecast errors, not fitted residuals; descriptive",ar1trend
+Uzbekistan,hydro_other,Ljung_Box_rolling_errors,1.0018019634652098,0.8008159346138438,17,"Forecast errors, not fitted residuals; descriptive",drift
+Uzbekistan,hydro_other,Ljung_Box_rolling_errors,3.1926207783154394,0.3628695998481955,17,"Forecast errors, not fitted residuals; descriptive",ets_damped
+Uzbekistan,hydro_other,Ljung_Box_rolling_errors,2.675299086101752,0.44444128966967666,17,"Forecast errors, not fitted residuals; descriptive",linear
+Uzbekistan,hydro_other,Ljung_Box_rolling_errors,8.205500924266069,0.041950161912320746,17,"Forecast errors, not fitted residuals; descriptive",mean
+Uzbekistan,hydro_other,Ljung_Box_rolling_errors,6.147625779526711,0.10464468633046843,17,"Forecast errors, not fitted residuals; descriptive",mean10
+Uzbekistan,hydro_other,Ljung_Box_rolling_errors,3.896471655176524,0.2728625111316749,17,"Forecast errors, not fitted residuals; descriptive",mean5
+Uzbekistan,hydro_other,Ljung_Box_rolling_errors,0.8962282113908147,0.8263379318752359,17,"Forecast errors, not fitted residuals; descriptive",naive
