@@ -1,6 +1,0 @@
-country,reference_GWh,hydro_reference_GWh,reference_year,classification,source_ids,scope_note,first_year_hydro_GWh
-Kazakhstan,17657.99,11285.0,2024,maintained_observed_reference,S1,IRENA2024 total renewable; 2025 net installed-capacity increments are annualized separately from raw IRENA; ministry2025 renewable subset is not all-hydro total,
-Kyrgyzstan,13357.0,13123.0,2025,harmonized_national_reference,N02,12.9 TWh large hydro plus0.223 small hydro plus0.234 mini hydro and other RE; rounded categories; only separately identified13.123TWh hydro receives hydro stress,
-Tajikistan,20878.88,20878.88,2024,maintained_observed_reference,S1,2025 national total not substituted for renewable generation without technology breakdown,
-Turkmenistan,3.35,3.15,2024,maintained_observed_reference,S1,2025 generation unavailable in supplied export; baseline is 2024 maintained service not observed 2025,
-Uzbekistan,23568.5,6500.0,2026,partial_year_nowcast_with_normalized_hydro_for_future,N03;UZ_OCT,2026 VRE nowcast maintained; 2025 hydro reference resumes from 2027; 2026 hydro nowcast is year-specific,8075.1
