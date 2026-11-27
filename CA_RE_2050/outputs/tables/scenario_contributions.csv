@@ -1,0 +1,701 @@
+country,year,scenario,component,increment_GWh
+Kazakhstan,2026,Accelerated,programme_gap_solar,0.0
+Kazakhstan,2027,Accelerated,programme_gap_solar,261.78734075955623
+Kazakhstan,2028,Accelerated,programme_gap_solar,523.5746815191125
+Kazakhstan,2029,Accelerated,programme_gap_solar,785.3620222786686
+Kazakhstan,2030,Accelerated,programme_gap_solar,1047.149363038225
+Kazakhstan,2031,Accelerated,programme_gap_solar,1308.936703797781
+Kazakhstan,2032,Accelerated,programme_gap_solar,1570.7240445573373
+Kazakhstan,2033,Accelerated,programme_gap_solar,1832.5113853168937
+Kazakhstan,2034,Accelerated,programme_gap_solar,2094.29872607645
+Kazakhstan,2035,Accelerated,programme_gap_solar,2356.086066836006
+Kazakhstan,2036,Accelerated,programme_gap_solar,2356.086066836006
+Kazakhstan,2037,Accelerated,programme_gap_solar,2356.086066836006
+Kazakhstan,2038,Accelerated,programme_gap_solar,2356.086066836006
+Kazakhstan,2039,Accelerated,programme_gap_solar,2356.086066836006
+Kazakhstan,2040,Accelerated,programme_gap_solar,2356.086066836006
+Kazakhstan,2041,Accelerated,programme_gap_solar,2356.086066836006
+Kazakhstan,2042,Accelerated,programme_gap_solar,2356.086066836006
+Kazakhstan,2043,Accelerated,programme_gap_solar,2356.086066836006
+Kazakhstan,2044,Accelerated,programme_gap_solar,2356.086066836006
+Kazakhstan,2045,Accelerated,programme_gap_solar,2356.086066836006
+Kazakhstan,2046,Accelerated,programme_gap_solar,2356.086066836006
+Kazakhstan,2047,Accelerated,programme_gap_solar,2356.086066836006
+Kazakhstan,2048,Accelerated,programme_gap_solar,2356.086066836006
+Kazakhstan,2049,Accelerated,programme_gap_solar,2356.086066836006
+Kazakhstan,2050,Accelerated,programme_gap_solar,2356.086066836006
+Kazakhstan,2026,Accelerated,continuation_solar,0.0
+Kazakhstan,2027,Accelerated,continuation_solar,0.0
+Kazakhstan,2028,Accelerated,continuation_solar,0.0
+Kazakhstan,2029,Accelerated,continuation_solar,0.0
+Kazakhstan,2030,Accelerated,continuation_solar,0.0
+Kazakhstan,2031,Accelerated,continuation_solar,0.0
+Kazakhstan,2032,Accelerated,continuation_solar,0.0
+Kazakhstan,2033,Accelerated,continuation_solar,0.0
+Kazakhstan,2034,Accelerated,continuation_solar,0.0
+Kazakhstan,2035,Accelerated,continuation_solar,0.0
+Kazakhstan,2036,Accelerated,continuation_solar,207.87615909434334
+Kazakhstan,2037,Accelerated,continuation_solar,415.7523181886867
+Kazakhstan,2038,Accelerated,continuation_solar,623.62847728303
+Kazakhstan,2039,Accelerated,continuation_solar,831.5046363773733
+Kazakhstan,2040,Accelerated,continuation_solar,1039.3807954717167
+Kazakhstan,2041,Accelerated,continuation_solar,1247.25695456606
+Kazakhstan,2042,Accelerated,continuation_solar,1455.1331136604033
+Kazakhstan,2043,Accelerated,continuation_solar,1663.0092727547467
+Kazakhstan,2044,Accelerated,continuation_solar,1870.88543184909
+Kazakhstan,2045,Accelerated,continuation_solar,2078.7615909434335
+Kazakhstan,2046,Accelerated,continuation_solar,2286.6377500377766
+Kazakhstan,2047,Accelerated,continuation_solar,2494.51390913212
+Kazakhstan,2048,Accelerated,continuation_solar,2702.3900682264634
+Kazakhstan,2049,Accelerated,continuation_solar,2910.2662273208066
+Kazakhstan,2050,Accelerated,continuation_solar,3118.14238641515
+Kazakhstan,2026,Accelerated,programme_gap_wind,0.0
+Kazakhstan,2027,Accelerated,programme_gap_wind,964.967632719609
+Kazakhstan,2028,Accelerated,programme_gap_wind,1929.935265439218
+Kazakhstan,2029,Accelerated,programme_gap_wind,2894.902898158827
+Kazakhstan,2030,Accelerated,programme_gap_wind,3859.870530878436
+Kazakhstan,2031,Accelerated,programme_gap_wind,4824.838163598046
+Kazakhstan,2032,Accelerated,programme_gap_wind,5789.805796317654
+Kazakhstan,2033,Accelerated,programme_gap_wind,6754.773429037264
+Kazakhstan,2034,Accelerated,programme_gap_wind,7719.741061756872
+Kazakhstan,2035,Accelerated,programme_gap_wind,8684.708694476481
+Kazakhstan,2036,Accelerated,programme_gap_wind,8684.708694476481
+Kazakhstan,2037,Accelerated,programme_gap_wind,8684.708694476481
+Kazakhstan,2038,Accelerated,programme_gap_wind,8684.708694476481
+Kazakhstan,2039,Accelerated,programme_gap_wind,8684.708694476481
+Kazakhstan,2040,Accelerated,programme_gap_wind,8684.708694476481
+Kazakhstan,2041,Accelerated,programme_gap_wind,8684.708694476481
+Kazakhstan,2042,Accelerated,programme_gap_wind,8684.708694476481
+Kazakhstan,2043,Accelerated,programme_gap_wind,8684.708694476481
+Kazakhstan,2044,Accelerated,programme_gap_wind,8684.708694476481
+Kazakhstan,2045,Accelerated,programme_gap_wind,8684.708694476481
+Kazakhstan,2046,Accelerated,programme_gap_wind,8684.708694476481
+Kazakhstan,2047,Accelerated,programme_gap_wind,8684.708694476481
+Kazakhstan,2048,Accelerated,programme_gap_wind,8684.708694476481
+Kazakhstan,2049,Accelerated,programme_gap_wind,8684.708694476481
+Kazakhstan,2050,Accelerated,programme_gap_wind,8684.708694476481
+Kazakhstan,2026,Accelerated,continuation_wind,0.0
+Kazakhstan,2027,Accelerated,continuation_wind,0.0
+Kazakhstan,2028,Accelerated,continuation_wind,0.0
+Kazakhstan,2029,Accelerated,continuation_wind,0.0
+Kazakhstan,2030,Accelerated,continuation_wind,0.0
+Kazakhstan,2031,Accelerated,continuation_wind,0.0
+Kazakhstan,2032,Accelerated,continuation_wind,0.0
+Kazakhstan,2033,Accelerated,continuation_wind,0.0
+Kazakhstan,2034,Accelerated,continuation_wind,0.0
+Kazakhstan,2035,Accelerated,continuation_wind,0.0
+Kazakhstan,2036,Accelerated,continuation_wind,540.8630497086525
+Kazakhstan,2037,Accelerated,continuation_wind,1081.726099417305
+Kazakhstan,2038,Accelerated,continuation_wind,1622.5891491259576
+Kazakhstan,2039,Accelerated,continuation_wind,2163.45219883461
+Kazakhstan,2040,Accelerated,continuation_wind,2704.3152485432624
+Kazakhstan,2041,Accelerated,continuation_wind,3245.1782982519153
+Kazakhstan,2042,Accelerated,continuation_wind,3786.0413479605677
+Kazakhstan,2043,Accelerated,continuation_wind,4326.90439766922
+Kazakhstan,2044,Accelerated,continuation_wind,4867.7674473778725
+Kazakhstan,2045,Accelerated,continuation_wind,5408.630497086525
+Kazakhstan,2046,Accelerated,continuation_wind,5949.493546795177
+Kazakhstan,2047,Accelerated,continuation_wind,6490.356596503831
+Kazakhstan,2048,Accelerated,continuation_wind,7031.219646212483
+Kazakhstan,2049,Accelerated,continuation_wind,7572.082695921135
+Kazakhstan,2050,Accelerated,continuation_wind,8112.945745629788
+Kazakhstan,2026,High Ambition,programme_gap_solar,0.0
+Kazakhstan,2027,High Ambition,programme_gap_solar,336.5837238337151
+Kazakhstan,2028,High Ambition,programme_gap_solar,673.1674476674302
+Kazakhstan,2029,High Ambition,programme_gap_solar,1009.7511715011453
+Kazakhstan,2030,High Ambition,programme_gap_solar,1346.3348953348604
+Kazakhstan,2031,High Ambition,programme_gap_solar,1682.9186191685758
+Kazakhstan,2032,High Ambition,programme_gap_solar,2019.5023430022907
+Kazakhstan,2033,High Ambition,programme_gap_solar,2356.086066836006
+Kazakhstan,2034,High Ambition,programme_gap_solar,2356.086066836006
+Kazakhstan,2035,High Ambition,programme_gap_solar,2356.086066836006
+Kazakhstan,2036,High Ambition,programme_gap_solar,2356.086066836006
+Kazakhstan,2037,High Ambition,programme_gap_solar,2356.086066836006
+Kazakhstan,2038,High Ambition,programme_gap_solar,2356.086066836006
+Kazakhstan,2039,High Ambition,programme_gap_solar,2356.086066836006
+Kazakhstan,2040,High Ambition,programme_gap_solar,2356.086066836006
+Kazakhstan,2041,High Ambition,programme_gap_solar,2356.086066836006
+Kazakhstan,2042,High Ambition,programme_gap_solar,2356.086066836006
+Kazakhstan,2043,High Ambition,programme_gap_solar,2356.086066836006
+Kazakhstan,2044,High Ambition,programme_gap_solar,2356.086066836006
+Kazakhstan,2045,High Ambition,programme_gap_solar,2356.086066836006
+Kazakhstan,2046,High Ambition,programme_gap_solar,2356.086066836006
+Kazakhstan,2047,High Ambition,programme_gap_solar,2356.086066836006
+Kazakhstan,2048,High Ambition,programme_gap_solar,2356.086066836006
+Kazakhstan,2049,High Ambition,programme_gap_solar,2356.086066836006
+Kazakhstan,2050,High Ambition,programme_gap_solar,2356.086066836006
+Kazakhstan,2026,High Ambition,continuation_solar,0.0
+Kazakhstan,2027,High Ambition,continuation_solar,0.0
+Kazakhstan,2028,High Ambition,continuation_solar,0.0
+Kazakhstan,2029,High Ambition,continuation_solar,0.0
+Kazakhstan,2030,High Ambition,continuation_solar,0.0
+Kazakhstan,2031,High Ambition,continuation_solar,0.0
+Kazakhstan,2032,High Ambition,continuation_solar,0.0
+Kazakhstan,2033,High Ambition,continuation_solar,0.0
+Kazakhstan,2034,High Ambition,continuation_solar,0.0
+Kazakhstan,2035,High Ambition,continuation_solar,0.0
+Kazakhstan,2036,High Ambition,continuation_solar,295.0434757412558
+Kazakhstan,2037,High Ambition,continuation_solar,590.0869514825116
+Kazakhstan,2038,High Ambition,continuation_solar,885.1304272237674
+Kazakhstan,2039,High Ambition,continuation_solar,1180.1739029650232
+Kazakhstan,2040,High Ambition,continuation_solar,1475.217378706279
+Kazakhstan,2041,High Ambition,continuation_solar,1770.2608544475347
+Kazakhstan,2042,High Ambition,continuation_solar,2065.3043301887906
+Kazakhstan,2043,High Ambition,continuation_solar,2360.3478059300464
+Kazakhstan,2044,High Ambition,continuation_solar,2655.3912816713023
+Kazakhstan,2045,High Ambition,continuation_solar,2950.434757412558
+Kazakhstan,2046,High Ambition,continuation_solar,3245.478233153814
+Kazakhstan,2047,High Ambition,continuation_solar,3540.5217088950694
+Kazakhstan,2048,High Ambition,continuation_solar,3835.5651846363253
+Kazakhstan,2049,High Ambition,continuation_solar,4130.608660377581
+Kazakhstan,2050,High Ambition,continuation_solar,4425.652136118837
+Kazakhstan,2026,High Ambition,programme_gap_wind,0.0
+Kazakhstan,2027,High Ambition,programme_gap_wind,1240.6726706394973
+Kazakhstan,2028,High Ambition,programme_gap_wind,2481.3453412789945
+Kazakhstan,2029,High Ambition,programme_gap_wind,3722.018011918492
+Kazakhstan,2030,High Ambition,programme_gap_wind,4962.690682557989
+Kazakhstan,2031,High Ambition,programme_gap_wind,6203.3633531974865
+Kazakhstan,2032,High Ambition,programme_gap_wind,7444.036023836984
+Kazakhstan,2033,High Ambition,programme_gap_wind,8684.708694476481
+Kazakhstan,2034,High Ambition,programme_gap_wind,8684.708694476481
+Kazakhstan,2035,High Ambition,programme_gap_wind,8684.708694476481
+Kazakhstan,2036,High Ambition,programme_gap_wind,8684.708694476481
+Kazakhstan,2037,High Ambition,programme_gap_wind,8684.708694476481
+Kazakhstan,2038,High Ambition,programme_gap_wind,8684.708694476481
+Kazakhstan,2039,High Ambition,programme_gap_wind,8684.708694476481
+Kazakhstan,2040,High Ambition,programme_gap_wind,8684.708694476481
+Kazakhstan,2041,High Ambition,programme_gap_wind,8684.708694476481
+Kazakhstan,2042,High Ambition,programme_gap_wind,8684.708694476481
+Kazakhstan,2043,High Ambition,programme_gap_wind,8684.708694476481
+Kazakhstan,2044,High Ambition,programme_gap_wind,8684.708694476481
+Kazakhstan,2045,High Ambition,programme_gap_wind,8684.708694476481
+Kazakhstan,2046,High Ambition,programme_gap_wind,8684.708694476481
+Kazakhstan,2047,High Ambition,programme_gap_wind,8684.708694476481
+Kazakhstan,2048,High Ambition,programme_gap_wind,8684.708694476481
+Kazakhstan,2049,High Ambition,programme_gap_wind,8684.708694476481
+Kazakhstan,2050,High Ambition,programme_gap_wind,8684.708694476481
+Kazakhstan,2026,High Ambition,continuation_wind,0.0
+Kazakhstan,2027,High Ambition,continuation_wind,0.0
+Kazakhstan,2028,High Ambition,continuation_wind,0.0
+Kazakhstan,2029,High Ambition,continuation_wind,0.0
+Kazakhstan,2030,High Ambition,continuation_wind,0.0
+Kazakhstan,2031,High Ambition,continuation_wind,0.0
+Kazakhstan,2032,High Ambition,continuation_wind,0.0
+Kazakhstan,2033,High Ambition,continuation_wind,0.0
+Kazakhstan,2034,High Ambition,continuation_wind,0.0
+Kazakhstan,2035,High Ambition,continuation_wind,0.0
+Kazakhstan,2036,High Ambition,continuation_wind,1943.019572323552
+Kazakhstan,2037,High Ambition,continuation_wind,3886.039144647104
+Kazakhstan,2038,High Ambition,continuation_wind,5829.058716970656
+Kazakhstan,2039,High Ambition,continuation_wind,7772.078289294208
+Kazakhstan,2040,High Ambition,continuation_wind,9715.09786161776
+Kazakhstan,2041,High Ambition,continuation_wind,11658.117433941312
+Kazakhstan,2042,High Ambition,continuation_wind,13601.137006264864
+Kazakhstan,2043,High Ambition,continuation_wind,15544.156578588416
+Kazakhstan,2044,High Ambition,continuation_wind,17487.176150911968
+Kazakhstan,2045,High Ambition,continuation_wind,19430.19572323552
+Kazakhstan,2046,High Ambition,continuation_wind,21373.215295559072
+Kazakhstan,2047,High Ambition,continuation_wind,23316.234867882624
+Kazakhstan,2048,High Ambition,continuation_wind,25259.254440206176
+Kazakhstan,2049,High Ambition,continuation_wind,27202.274012529728
+Kazakhstan,2050,High Ambition,continuation_wind,29145.29358485328
+Kyrgyzstan,2026,Accelerated,kazarman,0.0
+Kyrgyzstan,2027,Accelerated,kazarman,0.0
+Kyrgyzstan,2028,Accelerated,kazarman,0.0
+Kyrgyzstan,2029,Accelerated,kazarman,0.0
+Kyrgyzstan,2030,Accelerated,kazarman,0.0
+Kyrgyzstan,2031,Accelerated,kazarman,1875.0
+Kyrgyzstan,2032,Accelerated,kazarman,3750.0
+Kyrgyzstan,2033,Accelerated,kazarman,3750.0
+Kyrgyzstan,2034,Accelerated,kazarman,3750.0
+Kyrgyzstan,2035,Accelerated,kazarman,3750.0
+Kyrgyzstan,2036,Accelerated,kazarman,3750.0
+Kyrgyzstan,2037,Accelerated,kazarman,3750.0
+Kyrgyzstan,2038,Accelerated,kazarman,3750.0
+Kyrgyzstan,2039,Accelerated,kazarman,3750.0
+Kyrgyzstan,2040,Accelerated,kazarman,3750.0
+Kyrgyzstan,2041,Accelerated,kazarman,3750.0
+Kyrgyzstan,2042,Accelerated,kazarman,3750.0
+Kyrgyzstan,2043,Accelerated,kazarman,3750.0
+Kyrgyzstan,2044,Accelerated,kazarman,3750.0
+Kyrgyzstan,2045,Accelerated,kazarman,3750.0
+Kyrgyzstan,2046,Accelerated,kazarman,3750.0
+Kyrgyzstan,2047,Accelerated,kazarman,3750.0
+Kyrgyzstan,2048,Accelerated,kazarman,3750.0
+Kyrgyzstan,2049,Accelerated,kazarman,3750.0
+Kyrgyzstan,2050,Accelerated,kazarman,3750.0
+Kyrgyzstan,2026,High Ambition,kazarman,0.0
+Kyrgyzstan,2027,High Ambition,kazarman,0.0
+Kyrgyzstan,2028,High Ambition,kazarman,0.0
+Kyrgyzstan,2029,High Ambition,kazarman,0.0
+Kyrgyzstan,2030,High Ambition,kazarman,0.0
+Kyrgyzstan,2031,High Ambition,kazarman,1875.0
+Kyrgyzstan,2032,High Ambition,kazarman,3750.0
+Kyrgyzstan,2033,High Ambition,kazarman,3750.0
+Kyrgyzstan,2034,High Ambition,kazarman,3750.0
+Kyrgyzstan,2035,High Ambition,kazarman,3750.0
+Kyrgyzstan,2036,High Ambition,kazarman,3750.0
+Kyrgyzstan,2037,High Ambition,kazarman,3750.0
+Kyrgyzstan,2038,High Ambition,kazarman,3750.0
+Kyrgyzstan,2039,High Ambition,kazarman,3750.0
+Kyrgyzstan,2040,High Ambition,kazarman,3750.0
+Kyrgyzstan,2041,High Ambition,kazarman,3750.0
+Kyrgyzstan,2042,High Ambition,kazarman,3750.0
+Kyrgyzstan,2043,High Ambition,kazarman,3750.0
+Kyrgyzstan,2044,High Ambition,kazarman,3750.0
+Kyrgyzstan,2045,High Ambition,kazarman,3750.0
+Kyrgyzstan,2046,High Ambition,kazarman,3750.0
+Kyrgyzstan,2047,High Ambition,kazarman,3750.0
+Kyrgyzstan,2048,High Ambition,kazarman,3750.0
+Kyrgyzstan,2049,High Ambition,kazarman,3750.0
+Kyrgyzstan,2050,High Ambition,kazarman,3750.0
+Kyrgyzstan,2026,High Ambition,kokomeren_stage_1,0.0
+Kyrgyzstan,2027,High Ambition,kokomeren_stage_1,0.0
+Kyrgyzstan,2028,High Ambition,kokomeren_stage_1,0.0
+Kyrgyzstan,2029,High Ambition,kokomeren_stage_1,47.5
+Kyrgyzstan,2030,High Ambition,kokomeren_stage_1,95.0
+Kyrgyzstan,2031,High Ambition,kokomeren_stage_1,95.0
+Kyrgyzstan,2032,High Ambition,kokomeren_stage_1,95.0
+Kyrgyzstan,2033,High Ambition,kokomeren_stage_1,95.0
+Kyrgyzstan,2034,High Ambition,kokomeren_stage_1,95.0
+Kyrgyzstan,2035,High Ambition,kokomeren_stage_1,95.0
+Kyrgyzstan,2036,High Ambition,kokomeren_stage_1,95.0
+Kyrgyzstan,2037,High Ambition,kokomeren_stage_1,95.0
+Kyrgyzstan,2038,High Ambition,kokomeren_stage_1,95.0
+Kyrgyzstan,2039,High Ambition,kokomeren_stage_1,95.0
+Kyrgyzstan,2040,High Ambition,kokomeren_stage_1,95.0
+Kyrgyzstan,2041,High Ambition,kokomeren_stage_1,95.0
+Kyrgyzstan,2042,High Ambition,kokomeren_stage_1,95.0
+Kyrgyzstan,2043,High Ambition,kokomeren_stage_1,95.0
+Kyrgyzstan,2044,High Ambition,kokomeren_stage_1,95.0
+Kyrgyzstan,2045,High Ambition,kokomeren_stage_1,95.0
+Kyrgyzstan,2046,High Ambition,kokomeren_stage_1,95.0
+Kyrgyzstan,2047,High Ambition,kokomeren_stage_1,95.0
+Kyrgyzstan,2048,High Ambition,kokomeren_stage_1,95.0
+Kyrgyzstan,2049,High Ambition,kokomeren_stage_1,95.0
+Kyrgyzstan,2050,High Ambition,kokomeren_stage_1,95.0
+Kyrgyzstan,2026,High Ambition,kokomeren_stage_2,0.0
+Kyrgyzstan,2027,High Ambition,kokomeren_stage_2,0.0
+Kyrgyzstan,2028,High Ambition,kokomeren_stage_2,0.0
+Kyrgyzstan,2029,High Ambition,kokomeren_stage_2,0.0
+Kyrgyzstan,2030,High Ambition,kokomeren_stage_2,0.0
+Kyrgyzstan,2031,High Ambition,kokomeren_stage_2,0.0
+Kyrgyzstan,2032,High Ambition,kokomeren_stage_2,0.0
+Kyrgyzstan,2033,High Ambition,kokomeren_stage_2,0.0
+Kyrgyzstan,2034,High Ambition,kokomeren_stage_2,0.0
+Kyrgyzstan,2035,High Ambition,kokomeren_stage_2,424.0
+Kyrgyzstan,2036,High Ambition,kokomeren_stage_2,848.0
+Kyrgyzstan,2037,High Ambition,kokomeren_stage_2,848.0
+Kyrgyzstan,2038,High Ambition,kokomeren_stage_2,848.0
+Kyrgyzstan,2039,High Ambition,kokomeren_stage_2,848.0
+Kyrgyzstan,2040,High Ambition,kokomeren_stage_2,848.0
+Kyrgyzstan,2041,High Ambition,kokomeren_stage_2,848.0
+Kyrgyzstan,2042,High Ambition,kokomeren_stage_2,848.0
+Kyrgyzstan,2043,High Ambition,kokomeren_stage_2,848.0
+Kyrgyzstan,2044,High Ambition,kokomeren_stage_2,848.0
+Kyrgyzstan,2045,High Ambition,kokomeren_stage_2,848.0
+Kyrgyzstan,2046,High Ambition,kokomeren_stage_2,848.0
+Kyrgyzstan,2047,High Ambition,kokomeren_stage_2,848.0
+Kyrgyzstan,2048,High Ambition,kokomeren_stage_2,848.0
+Kyrgyzstan,2049,High Ambition,kokomeren_stage_2,848.0
+Kyrgyzstan,2050,High Ambition,kokomeren_stage_2,848.0
+Kyrgyzstan,2026,High Ambition,kokomeren_stage_3,0.0
+Kyrgyzstan,2027,High Ambition,kokomeren_stage_3,0.0
+Kyrgyzstan,2028,High Ambition,kokomeren_stage_3,0.0
+Kyrgyzstan,2029,High Ambition,kokomeren_stage_3,0.0
+Kyrgyzstan,2030,High Ambition,kokomeren_stage_3,0.0
+Kyrgyzstan,2031,High Ambition,kokomeren_stage_3,0.0
+Kyrgyzstan,2032,High Ambition,kokomeren_stage_3,0.0
+Kyrgyzstan,2033,High Ambition,kokomeren_stage_3,0.0
+Kyrgyzstan,2034,High Ambition,kokomeren_stage_3,0.0
+Kyrgyzstan,2035,High Ambition,kokomeren_stage_3,0.0
+Kyrgyzstan,2036,High Ambition,kokomeren_stage_3,0.0
+Kyrgyzstan,2037,High Ambition,kokomeren_stage_3,0.0
+Kyrgyzstan,2038,High Ambition,kokomeren_stage_3,0.0
+Kyrgyzstan,2039,High Ambition,kokomeren_stage_3,1187.0
+Kyrgyzstan,2040,High Ambition,kokomeren_stage_3,2374.0
+Kyrgyzstan,2041,High Ambition,kokomeren_stage_3,2374.0
+Kyrgyzstan,2042,High Ambition,kokomeren_stage_3,2374.0
+Kyrgyzstan,2043,High Ambition,kokomeren_stage_3,2374.0
+Kyrgyzstan,2044,High Ambition,kokomeren_stage_3,2374.0
+Kyrgyzstan,2045,High Ambition,kokomeren_stage_3,2374.0
+Kyrgyzstan,2046,High Ambition,kokomeren_stage_3,2374.0
+Kyrgyzstan,2047,High Ambition,kokomeren_stage_3,2374.0
+Kyrgyzstan,2048,High Ambition,kokomeren_stage_3,2374.0
+Kyrgyzstan,2049,High Ambition,kokomeren_stage_3,2374.0
+Kyrgyzstan,2050,High Ambition,kokomeren_stage_3,2374.0
+Kyrgyzstan,2026,High Ambition,earlier_kambarata_delta,0.0
+Kyrgyzstan,2027,High Ambition,earlier_kambarata_delta,0.0
+Kyrgyzstan,2028,High Ambition,earlier_kambarata_delta,0.0
+Kyrgyzstan,2029,High Ambition,earlier_kambarata_delta,0.0
+Kyrgyzstan,2030,High Ambition,earlier_kambarata_delta,0.0
+Kyrgyzstan,2031,High Ambition,earlier_kambarata_delta,0.0
+Kyrgyzstan,2032,High Ambition,earlier_kambarata_delta,0.0
+Kyrgyzstan,2033,High Ambition,earlier_kambarata_delta,0.0
+Kyrgyzstan,2034,High Ambition,earlier_kambarata_delta,0.0
+Kyrgyzstan,2035,High Ambition,earlier_kambarata_delta,2000.0
+Kyrgyzstan,2036,High Ambition,earlier_kambarata_delta,4000.0
+Kyrgyzstan,2037,High Ambition,earlier_kambarata_delta,6000.0
+Kyrgyzstan,2038,High Ambition,earlier_kambarata_delta,6000.0
+Kyrgyzstan,2039,High Ambition,earlier_kambarata_delta,6000.0
+Kyrgyzstan,2040,High Ambition,earlier_kambarata_delta,4000.0
+Kyrgyzstan,2041,High Ambition,earlier_kambarata_delta,2000.0
+Kyrgyzstan,2042,High Ambition,earlier_kambarata_delta,0.0
+Kyrgyzstan,2043,High Ambition,earlier_kambarata_delta,0.0
+Kyrgyzstan,2044,High Ambition,earlier_kambarata_delta,0.0
+Kyrgyzstan,2045,High Ambition,earlier_kambarata_delta,0.0
+Kyrgyzstan,2046,High Ambition,earlier_kambarata_delta,0.0
+Kyrgyzstan,2047,High Ambition,earlier_kambarata_delta,0.0
+Kyrgyzstan,2048,High Ambition,earlier_kambarata_delta,0.0
+Kyrgyzstan,2049,High Ambition,earlier_kambarata_delta,0.0
+Kyrgyzstan,2050,High Ambition,earlier_kambarata_delta,0.0
+Tajikistan,2026,Accelerated,solar_programme_gap,0.0
+Tajikistan,2027,Accelerated,solar_programme_gap,0.0
+Tajikistan,2028,Accelerated,solar_programme_gap,819.5652103923771
+Tajikistan,2029,Accelerated,solar_programme_gap,1639.1304207847543
+Tajikistan,2030,Accelerated,solar_programme_gap,1639.1304207847543
+Tajikistan,2031,Accelerated,solar_programme_gap,1639.1304207847543
+Tajikistan,2032,Accelerated,solar_programme_gap,1639.1304207847543
+Tajikistan,2033,Accelerated,solar_programme_gap,1639.1304207847543
+Tajikistan,2034,Accelerated,solar_programme_gap,1639.1304207847543
+Tajikistan,2035,Accelerated,solar_programme_gap,1639.1304207847543
+Tajikistan,2036,Accelerated,solar_programme_gap,1639.1304207847543
+Tajikistan,2037,Accelerated,solar_programme_gap,1639.1304207847543
+Tajikistan,2038,Accelerated,solar_programme_gap,1639.1304207847543
+Tajikistan,2039,Accelerated,solar_programme_gap,1639.1304207847543
+Tajikistan,2040,Accelerated,solar_programme_gap,1639.1304207847543
+Tajikistan,2041,Accelerated,solar_programme_gap,1639.1304207847543
+Tajikistan,2042,Accelerated,solar_programme_gap,1639.1304207847543
+Tajikistan,2043,Accelerated,solar_programme_gap,1639.1304207847543
+Tajikistan,2044,Accelerated,solar_programme_gap,1639.1304207847543
+Tajikistan,2045,Accelerated,solar_programme_gap,1639.1304207847543
+Tajikistan,2046,Accelerated,solar_programme_gap,1639.1304207847543
+Tajikistan,2047,Accelerated,solar_programme_gap,1639.1304207847543
+Tajikistan,2048,Accelerated,solar_programme_gap,1639.1304207847543
+Tajikistan,2049,Accelerated,solar_programme_gap,1639.1304207847543
+Tajikistan,2050,Accelerated,solar_programme_gap,1639.1304207847543
+Tajikistan,2026,High Ambition,solar_programme_gap,0.0
+Tajikistan,2027,High Ambition,solar_programme_gap,0.0
+Tajikistan,2028,High Ambition,solar_programme_gap,819.5652103923771
+Tajikistan,2029,High Ambition,solar_programme_gap,1639.1304207847543
+Tajikistan,2030,High Ambition,solar_programme_gap,1639.1304207847543
+Tajikistan,2031,High Ambition,solar_programme_gap,1639.1304207847543
+Tajikistan,2032,High Ambition,solar_programme_gap,1639.1304207847543
+Tajikistan,2033,High Ambition,solar_programme_gap,1639.1304207847543
+Tajikistan,2034,High Ambition,solar_programme_gap,1639.1304207847543
+Tajikistan,2035,High Ambition,solar_programme_gap,1639.1304207847543
+Tajikistan,2036,High Ambition,solar_programme_gap,1639.1304207847543
+Tajikistan,2037,High Ambition,solar_programme_gap,1639.1304207847543
+Tajikistan,2038,High Ambition,solar_programme_gap,1639.1304207847543
+Tajikistan,2039,High Ambition,solar_programme_gap,1639.1304207847543
+Tajikistan,2040,High Ambition,solar_programme_gap,1639.1304207847543
+Tajikistan,2041,High Ambition,solar_programme_gap,1639.1304207847543
+Tajikistan,2042,High Ambition,solar_programme_gap,1639.1304207847543
+Tajikistan,2043,High Ambition,solar_programme_gap,1639.1304207847543
+Tajikistan,2044,High Ambition,solar_programme_gap,1639.1304207847543
+Tajikistan,2045,High Ambition,solar_programme_gap,1639.1304207847543
+Tajikistan,2046,High Ambition,solar_programme_gap,1639.1304207847543
+Tajikistan,2047,High Ambition,solar_programme_gap,1639.1304207847543
+Tajikistan,2048,High Ambition,solar_programme_gap,1639.1304207847543
+Tajikistan,2049,High Ambition,solar_programme_gap,1639.1304207847543
+Tajikistan,2050,High Ambition,solar_programme_gap,1639.1304207847543
+Tajikistan,2026,High Ambition,diversification_gap,0.0
+Tajikistan,2027,High Ambition,diversification_gap,0.0
+Tajikistan,2028,High Ambition,diversification_gap,0.0
+Tajikistan,2029,High Ambition,diversification_gap,0.0
+Tajikistan,2030,High Ambition,diversification_gap,0.0
+Tajikistan,2031,High Ambition,diversification_gap,76.3806628855878
+Tajikistan,2032,High Ambition,diversification_gap,152.7613257711756
+Tajikistan,2033,High Ambition,diversification_gap,229.1419886567634
+Tajikistan,2034,High Ambition,diversification_gap,305.5226515423512
+Tajikistan,2035,High Ambition,diversification_gap,381.903314427939
+Tajikistan,2036,High Ambition,diversification_gap,458.2839773135268
+Tajikistan,2037,High Ambition,diversification_gap,534.6646401991146
+Tajikistan,2038,High Ambition,diversification_gap,611.0453030847024
+Tajikistan,2039,High Ambition,diversification_gap,687.4259659702902
+Tajikistan,2040,High Ambition,diversification_gap,763.806628855878
+Tajikistan,2041,High Ambition,diversification_gap,840.1872917414659
+Tajikistan,2042,High Ambition,diversification_gap,916.5679546270536
+Tajikistan,2043,High Ambition,diversification_gap,992.9486175126414
+Tajikistan,2044,High Ambition,diversification_gap,1069.3292803982292
+Tajikistan,2045,High Ambition,diversification_gap,1145.709943283817
+Tajikistan,2046,High Ambition,diversification_gap,1222.0906061694047
+Tajikistan,2047,High Ambition,diversification_gap,1298.4712690549925
+Tajikistan,2048,High Ambition,diversification_gap,1374.8519319405805
+Tajikistan,2049,High Ambition,diversification_gap,1451.2325948261682
+Tajikistan,2050,High Ambition,diversification_gap,1527.613257711756
+Turkmenistan,2026,Accelerated,solar_replica_2040,0.0
+Turkmenistan,2027,Accelerated,solar_replica_2040,0.0
+Turkmenistan,2028,Accelerated,solar_replica_2040,0.0
+Turkmenistan,2029,Accelerated,solar_replica_2040,0.0
+Turkmenistan,2030,Accelerated,solar_replica_2040,0.0
+Turkmenistan,2031,Accelerated,solar_replica_2040,0.0
+Turkmenistan,2032,Accelerated,solar_replica_2040,0.0
+Turkmenistan,2033,Accelerated,solar_replica_2040,0.0
+Turkmenistan,2034,Accelerated,solar_replica_2040,0.0
+Turkmenistan,2035,Accelerated,solar_replica_2040,0.0
+Turkmenistan,2036,Accelerated,solar_replica_2040,0.0
+Turkmenistan,2037,Accelerated,solar_replica_2040,0.0
+Turkmenistan,2038,Accelerated,solar_replica_2040,0.0
+Turkmenistan,2039,Accelerated,solar_replica_2040,245.86956311771314
+Turkmenistan,2040,Accelerated,solar_replica_2040,491.7391262354263
+Turkmenistan,2041,Accelerated,solar_replica_2040,491.7391262354263
+Turkmenistan,2042,Accelerated,solar_replica_2040,491.7391262354263
+Turkmenistan,2043,Accelerated,solar_replica_2040,491.7391262354263
+Turkmenistan,2044,Accelerated,solar_replica_2040,491.7391262354263
+Turkmenistan,2045,Accelerated,solar_replica_2040,491.7391262354263
+Turkmenistan,2046,Accelerated,solar_replica_2040,491.7391262354263
+Turkmenistan,2047,Accelerated,solar_replica_2040,491.7391262354263
+Turkmenistan,2048,Accelerated,solar_replica_2040,491.7391262354263
+Turkmenistan,2049,Accelerated,solar_replica_2040,491.7391262354263
+Turkmenistan,2050,Accelerated,solar_replica_2040,491.7391262354263
+Turkmenistan,2026,High Ambition,solar_replica_2035,0.0
+Turkmenistan,2027,High Ambition,solar_replica_2035,0.0
+Turkmenistan,2028,High Ambition,solar_replica_2035,0.0
+Turkmenistan,2029,High Ambition,solar_replica_2035,0.0
+Turkmenistan,2030,High Ambition,solar_replica_2035,0.0
+Turkmenistan,2031,High Ambition,solar_replica_2035,0.0
+Turkmenistan,2032,High Ambition,solar_replica_2035,0.0
+Turkmenistan,2033,High Ambition,solar_replica_2035,0.0
+Turkmenistan,2034,High Ambition,solar_replica_2035,245.86956311771314
+Turkmenistan,2035,High Ambition,solar_replica_2035,491.7391262354263
+Turkmenistan,2036,High Ambition,solar_replica_2035,491.7391262354263
+Turkmenistan,2037,High Ambition,solar_replica_2035,491.7391262354263
+Turkmenistan,2038,High Ambition,solar_replica_2035,491.7391262354263
+Turkmenistan,2039,High Ambition,solar_replica_2035,491.7391262354263
+Turkmenistan,2040,High Ambition,solar_replica_2035,491.7391262354263
+Turkmenistan,2041,High Ambition,solar_replica_2035,491.7391262354263
+Turkmenistan,2042,High Ambition,solar_replica_2035,491.7391262354263
+Turkmenistan,2043,High Ambition,solar_replica_2035,491.7391262354263
+Turkmenistan,2044,High Ambition,solar_replica_2035,491.7391262354263
+Turkmenistan,2045,High Ambition,solar_replica_2035,491.7391262354263
+Turkmenistan,2046,High Ambition,solar_replica_2035,491.7391262354263
+Turkmenistan,2047,High Ambition,solar_replica_2035,491.7391262354263
+Turkmenistan,2048,High Ambition,solar_replica_2035,491.7391262354263
+Turkmenistan,2049,High Ambition,solar_replica_2035,491.7391262354263
+Turkmenistan,2050,High Ambition,solar_replica_2035,491.7391262354263
+Turkmenistan,2026,High Ambition,solar_replica_2040,0.0
+Turkmenistan,2027,High Ambition,solar_replica_2040,0.0
+Turkmenistan,2028,High Ambition,solar_replica_2040,0.0
+Turkmenistan,2029,High Ambition,solar_replica_2040,0.0
+Turkmenistan,2030,High Ambition,solar_replica_2040,0.0
+Turkmenistan,2031,High Ambition,solar_replica_2040,0.0
+Turkmenistan,2032,High Ambition,solar_replica_2040,0.0
+Turkmenistan,2033,High Ambition,solar_replica_2040,0.0
+Turkmenistan,2034,High Ambition,solar_replica_2040,0.0
+Turkmenistan,2035,High Ambition,solar_replica_2040,0.0
+Turkmenistan,2036,High Ambition,solar_replica_2040,0.0
+Turkmenistan,2037,High Ambition,solar_replica_2040,0.0
+Turkmenistan,2038,High Ambition,solar_replica_2040,0.0
+Turkmenistan,2039,High Ambition,solar_replica_2040,245.86956311771314
+Turkmenistan,2040,High Ambition,solar_replica_2040,491.7391262354263
+Turkmenistan,2041,High Ambition,solar_replica_2040,491.7391262354263
+Turkmenistan,2042,High Ambition,solar_replica_2040,491.7391262354263
+Turkmenistan,2043,High Ambition,solar_replica_2040,491.7391262354263
+Turkmenistan,2044,High Ambition,solar_replica_2040,491.7391262354263
+Turkmenistan,2045,High Ambition,solar_replica_2040,491.7391262354263
+Turkmenistan,2046,High Ambition,solar_replica_2040,491.7391262354263
+Turkmenistan,2047,High Ambition,solar_replica_2040,491.7391262354263
+Turkmenistan,2048,High Ambition,solar_replica_2040,491.7391262354263
+Turkmenistan,2049,High Ambition,solar_replica_2040,491.7391262354263
+Turkmenistan,2050,High Ambition,solar_replica_2040,491.7391262354263
+Turkmenistan,2026,High Ambition,solar_replica_2045,0.0
+Turkmenistan,2027,High Ambition,solar_replica_2045,0.0
+Turkmenistan,2028,High Ambition,solar_replica_2045,0.0
+Turkmenistan,2029,High Ambition,solar_replica_2045,0.0
+Turkmenistan,2030,High Ambition,solar_replica_2045,0.0
+Turkmenistan,2031,High Ambition,solar_replica_2045,0.0
+Turkmenistan,2032,High Ambition,solar_replica_2045,0.0
+Turkmenistan,2033,High Ambition,solar_replica_2045,0.0
+Turkmenistan,2034,High Ambition,solar_replica_2045,0.0
+Turkmenistan,2035,High Ambition,solar_replica_2045,0.0
+Turkmenistan,2036,High Ambition,solar_replica_2045,0.0
+Turkmenistan,2037,High Ambition,solar_replica_2045,0.0
+Turkmenistan,2038,High Ambition,solar_replica_2045,0.0
+Turkmenistan,2039,High Ambition,solar_replica_2045,0.0
+Turkmenistan,2040,High Ambition,solar_replica_2045,0.0
+Turkmenistan,2041,High Ambition,solar_replica_2045,0.0
+Turkmenistan,2042,High Ambition,solar_replica_2045,0.0
+Turkmenistan,2043,High Ambition,solar_replica_2045,0.0
+Turkmenistan,2044,High Ambition,solar_replica_2045,245.86956311771314
+Turkmenistan,2045,High Ambition,solar_replica_2045,491.7391262354263
+Turkmenistan,2046,High Ambition,solar_replica_2045,491.7391262354263
+Turkmenistan,2047,High Ambition,solar_replica_2045,491.7391262354263
+Turkmenistan,2048,High Ambition,solar_replica_2045,491.7391262354263
+Turkmenistan,2049,High Ambition,solar_replica_2045,491.7391262354263
+Turkmenistan,2050,High Ambition,solar_replica_2045,491.7391262354263
+Turkmenistan,2026,High Ambition,solar_replica_2050,0.0
+Turkmenistan,2027,High Ambition,solar_replica_2050,0.0
+Turkmenistan,2028,High Ambition,solar_replica_2050,0.0
+Turkmenistan,2029,High Ambition,solar_replica_2050,0.0
+Turkmenistan,2030,High Ambition,solar_replica_2050,0.0
+Turkmenistan,2031,High Ambition,solar_replica_2050,0.0
+Turkmenistan,2032,High Ambition,solar_replica_2050,0.0
+Turkmenistan,2033,High Ambition,solar_replica_2050,0.0
+Turkmenistan,2034,High Ambition,solar_replica_2050,0.0
+Turkmenistan,2035,High Ambition,solar_replica_2050,0.0
+Turkmenistan,2036,High Ambition,solar_replica_2050,0.0
+Turkmenistan,2037,High Ambition,solar_replica_2050,0.0
+Turkmenistan,2038,High Ambition,solar_replica_2050,0.0
+Turkmenistan,2039,High Ambition,solar_replica_2050,0.0
+Turkmenistan,2040,High Ambition,solar_replica_2050,0.0
+Turkmenistan,2041,High Ambition,solar_replica_2050,0.0
+Turkmenistan,2042,High Ambition,solar_replica_2050,0.0
+Turkmenistan,2043,High Ambition,solar_replica_2050,0.0
+Turkmenistan,2044,High Ambition,solar_replica_2050,0.0
+Turkmenistan,2045,High Ambition,solar_replica_2050,0.0
+Turkmenistan,2046,High Ambition,solar_replica_2050,0.0
+Turkmenistan,2047,High Ambition,solar_replica_2050,0.0
+Turkmenistan,2048,High Ambition,solar_replica_2050,0.0
+Turkmenistan,2049,High Ambition,solar_replica_2050,245.86956311771314
+Turkmenistan,2050,High Ambition,solar_replica_2050,491.7391262354263
+Uzbekistan,2026,Accelerated,historical_build_gap_solar,0.0
+Uzbekistan,2027,Accelerated,historical_build_gap_solar,1393.7687999999998
+Uzbekistan,2028,Accelerated,historical_build_gap_solar,2787.5375999999997
+Uzbekistan,2029,Accelerated,historical_build_gap_solar,4181.3063999999995
+Uzbekistan,2030,Accelerated,historical_build_gap_solar,5575.075199999999
+Uzbekistan,2031,Accelerated,historical_build_gap_solar,6968.843999999999
+Uzbekistan,2032,Accelerated,historical_build_gap_solar,8362.612799999999
+Uzbekistan,2033,Accelerated,historical_build_gap_solar,9756.381599999999
+Uzbekistan,2034,Accelerated,historical_build_gap_solar,11150.150399999999
+Uzbekistan,2035,Accelerated,historical_build_gap_solar,12543.919199999998
+Uzbekistan,2036,Accelerated,historical_build_gap_solar,13937.687999999998
+Uzbekistan,2037,Accelerated,historical_build_gap_solar,15331.456799999998
+Uzbekistan,2038,Accelerated,historical_build_gap_solar,16725.225599999998
+Uzbekistan,2039,Accelerated,historical_build_gap_solar,18118.994399999996
+Uzbekistan,2040,Accelerated,historical_build_gap_solar,19512.763199999998
+Uzbekistan,2041,Accelerated,historical_build_gap_solar,20906.532
+Uzbekistan,2042,Accelerated,historical_build_gap_solar,22300.300799999997
+Uzbekistan,2043,Accelerated,historical_build_gap_solar,23694.069599999995
+Uzbekistan,2044,Accelerated,historical_build_gap_solar,25087.838399999997
+Uzbekistan,2045,Accelerated,historical_build_gap_solar,26481.6072
+Uzbekistan,2046,Accelerated,historical_build_gap_solar,27875.375999999997
+Uzbekistan,2047,Accelerated,historical_build_gap_solar,29269.144799999995
+Uzbekistan,2048,Accelerated,historical_build_gap_solar,30662.913599999996
+Uzbekistan,2049,Accelerated,historical_build_gap_solar,32056.682399999998
+Uzbekistan,2050,Accelerated,historical_build_gap_solar,33450.451199999996
+Uzbekistan,2026,Accelerated,historical_build_gap_wind,0.0
+Uzbekistan,2027,Accelerated,historical_build_gap_wind,245.18229166666669
+Uzbekistan,2028,Accelerated,historical_build_gap_wind,490.36458333333337
+Uzbekistan,2029,Accelerated,historical_build_gap_wind,735.546875
+Uzbekistan,2030,Accelerated,historical_build_gap_wind,980.7291666666667
+Uzbekistan,2031,Accelerated,historical_build_gap_wind,1225.9114583333335
+Uzbekistan,2032,Accelerated,historical_build_gap_wind,1471.09375
+Uzbekistan,2033,Accelerated,historical_build_gap_wind,1716.2760416666667
+Uzbekistan,2034,Accelerated,historical_build_gap_wind,1961.4583333333335
+Uzbekistan,2035,Accelerated,historical_build_gap_wind,2206.640625
+Uzbekistan,2036,Accelerated,historical_build_gap_wind,2451.822916666667
+Uzbekistan,2037,Accelerated,historical_build_gap_wind,2697.0052083333335
+Uzbekistan,2038,Accelerated,historical_build_gap_wind,2942.1875
+Uzbekistan,2039,Accelerated,historical_build_gap_wind,3187.369791666667
+Uzbekistan,2040,Accelerated,historical_build_gap_wind,3432.5520833333335
+Uzbekistan,2041,Accelerated,historical_build_gap_wind,3677.7343750000005
+Uzbekistan,2042,Accelerated,historical_build_gap_wind,3922.916666666667
+Uzbekistan,2043,Accelerated,historical_build_gap_wind,4168.098958333334
+Uzbekistan,2044,Accelerated,historical_build_gap_wind,4413.28125
+Uzbekistan,2045,Accelerated,historical_build_gap_wind,4658.463541666667
+Uzbekistan,2046,Accelerated,historical_build_gap_wind,4903.645833333334
+Uzbekistan,2047,Accelerated,historical_build_gap_wind,5148.828125
+Uzbekistan,2048,Accelerated,historical_build_gap_wind,5394.010416666667
+Uzbekistan,2049,Accelerated,historical_build_gap_wind,5639.192708333334
+Uzbekistan,2050,Accelerated,historical_build_gap_wind,5884.375
+Uzbekistan,2026,High Ambition,historical_build_gap_solar,0.0
+Uzbekistan,2027,High Ambition,historical_build_gap_solar,1393.7687999999998
+Uzbekistan,2028,High Ambition,historical_build_gap_solar,2787.5375999999997
+Uzbekistan,2029,High Ambition,historical_build_gap_solar,4181.3063999999995
+Uzbekistan,2030,High Ambition,historical_build_gap_solar,5575.075199999999
+Uzbekistan,2031,High Ambition,historical_build_gap_solar,6968.843999999999
+Uzbekistan,2032,High Ambition,historical_build_gap_solar,8362.612799999999
+Uzbekistan,2033,High Ambition,historical_build_gap_solar,9756.381599999999
+Uzbekistan,2034,High Ambition,historical_build_gap_solar,11150.150399999999
+Uzbekistan,2035,High Ambition,historical_build_gap_solar,12543.919199999998
+Uzbekistan,2036,High Ambition,historical_build_gap_solar,13937.687999999998
+Uzbekistan,2037,High Ambition,historical_build_gap_solar,15331.456799999998
+Uzbekistan,2038,High Ambition,historical_build_gap_solar,16725.225599999998
+Uzbekistan,2039,High Ambition,historical_build_gap_solar,18118.994399999996
+Uzbekistan,2040,High Ambition,historical_build_gap_solar,19512.763199999998
+Uzbekistan,2041,High Ambition,historical_build_gap_solar,20906.532
+Uzbekistan,2042,High Ambition,historical_build_gap_solar,22300.300799999997
+Uzbekistan,2043,High Ambition,historical_build_gap_solar,23694.069599999995
+Uzbekistan,2044,High Ambition,historical_build_gap_solar,25087.838399999997
+Uzbekistan,2045,High Ambition,historical_build_gap_solar,26481.6072
+Uzbekistan,2046,High Ambition,historical_build_gap_solar,27875.375999999997
+Uzbekistan,2047,High Ambition,historical_build_gap_solar,29269.144799999995
+Uzbekistan,2048,High Ambition,historical_build_gap_solar,30662.913599999996
+Uzbekistan,2049,High Ambition,historical_build_gap_solar,32056.682399999998
+Uzbekistan,2050,High Ambition,historical_build_gap_solar,33450.451199999996
+Uzbekistan,2026,High Ambition,historical_build_gap_wind,0.0
+Uzbekistan,2027,High Ambition,historical_build_gap_wind,245.18229166666669
+Uzbekistan,2028,High Ambition,historical_build_gap_wind,490.36458333333337
+Uzbekistan,2029,High Ambition,historical_build_gap_wind,735.546875
+Uzbekistan,2030,High Ambition,historical_build_gap_wind,980.7291666666667
+Uzbekistan,2031,High Ambition,historical_build_gap_wind,1225.9114583333335
+Uzbekistan,2032,High Ambition,historical_build_gap_wind,1471.09375
+Uzbekistan,2033,High Ambition,historical_build_gap_wind,1716.2760416666667
+Uzbekistan,2034,High Ambition,historical_build_gap_wind,1961.4583333333335
+Uzbekistan,2035,High Ambition,historical_build_gap_wind,2206.640625
+Uzbekistan,2036,High Ambition,historical_build_gap_wind,2451.822916666667
+Uzbekistan,2037,High Ambition,historical_build_gap_wind,2697.0052083333335
+Uzbekistan,2038,High Ambition,historical_build_gap_wind,2942.1875
+Uzbekistan,2039,High Ambition,historical_build_gap_wind,3187.369791666667
+Uzbekistan,2040,High Ambition,historical_build_gap_wind,3432.5520833333335
+Uzbekistan,2041,High Ambition,historical_build_gap_wind,3677.7343750000005
+Uzbekistan,2042,High Ambition,historical_build_gap_wind,3922.916666666667
+Uzbekistan,2043,High Ambition,historical_build_gap_wind,4168.098958333334
+Uzbekistan,2044,High Ambition,historical_build_gap_wind,4413.28125
+Uzbekistan,2045,High Ambition,historical_build_gap_wind,4658.463541666667
+Uzbekistan,2046,High Ambition,historical_build_gap_wind,4903.645833333334
+Uzbekistan,2047,High Ambition,historical_build_gap_wind,5148.828125
+Uzbekistan,2048,High Ambition,historical_build_gap_wind,5394.010416666667
+Uzbekistan,2049,High Ambition,historical_build_gap_wind,5639.192708333334
+Uzbekistan,2050,High Ambition,historical_build_gap_wind,5884.375
+Uzbekistan,2026,High Ambition,policy_gap_solar,0.0
+Uzbekistan,2027,High Ambition,policy_gap_solar,5840.98089841043
+Uzbekistan,2028,High Ambition,policy_gap_solar,11681.96179682086
+Uzbekistan,2029,High Ambition,policy_gap_solar,17522.94269523129
+Uzbekistan,2030,High Ambition,policy_gap_solar,23363.92359364172
+Uzbekistan,2031,High Ambition,policy_gap_solar,23363.92359364172
+Uzbekistan,2032,High Ambition,policy_gap_solar,23363.92359364172
+Uzbekistan,2033,High Ambition,policy_gap_solar,23363.92359364172
+Uzbekistan,2034,High Ambition,policy_gap_solar,23363.92359364172
+Uzbekistan,2035,High Ambition,policy_gap_solar,23363.92359364172
+Uzbekistan,2036,High Ambition,policy_gap_solar,23363.92359364172
+Uzbekistan,2037,High Ambition,policy_gap_solar,23363.92359364172
+Uzbekistan,2038,High Ambition,policy_gap_solar,23363.92359364172
+Uzbekistan,2039,High Ambition,policy_gap_solar,23363.92359364172
+Uzbekistan,2040,High Ambition,policy_gap_solar,23363.92359364172
+Uzbekistan,2041,High Ambition,policy_gap_solar,23363.92359364172
+Uzbekistan,2042,High Ambition,policy_gap_solar,23363.92359364172
+Uzbekistan,2043,High Ambition,policy_gap_solar,23363.92359364172
+Uzbekistan,2044,High Ambition,policy_gap_solar,23363.92359364172
+Uzbekistan,2045,High Ambition,policy_gap_solar,23363.92359364172
+Uzbekistan,2046,High Ambition,policy_gap_solar,23363.92359364172
+Uzbekistan,2047,High Ambition,policy_gap_solar,23363.92359364172
+Uzbekistan,2048,High Ambition,policy_gap_solar,23363.92359364172
+Uzbekistan,2049,High Ambition,policy_gap_solar,23363.92359364172
+Uzbekistan,2050,High Ambition,policy_gap_solar,23363.92359364172
+Uzbekistan,2026,High Ambition,policy_gap_wind,0.0
+Uzbekistan,2027,High Ambition,policy_gap_wind,2116.943009922903
+Uzbekistan,2028,High Ambition,policy_gap_wind,4233.886019845806
+Uzbekistan,2029,High Ambition,policy_gap_wind,6350.829029768709
+Uzbekistan,2030,High Ambition,policy_gap_wind,8467.772039691612
+Uzbekistan,2031,High Ambition,policy_gap_wind,8467.772039691612
+Uzbekistan,2032,High Ambition,policy_gap_wind,8467.772039691612
+Uzbekistan,2033,High Ambition,policy_gap_wind,8467.772039691612
+Uzbekistan,2034,High Ambition,policy_gap_wind,8467.772039691612
+Uzbekistan,2035,High Ambition,policy_gap_wind,8467.772039691612
+Uzbekistan,2036,High Ambition,policy_gap_wind,8467.772039691612
+Uzbekistan,2037,High Ambition,policy_gap_wind,8467.772039691612
+Uzbekistan,2038,High Ambition,policy_gap_wind,8467.772039691612
+Uzbekistan,2039,High Ambition,policy_gap_wind,8467.772039691612
+Uzbekistan,2040,High Ambition,policy_gap_wind,8467.772039691612
+Uzbekistan,2041,High Ambition,policy_gap_wind,8467.772039691612
+Uzbekistan,2042,High Ambition,policy_gap_wind,8467.772039691612
+Uzbekistan,2043,High Ambition,policy_gap_wind,8467.772039691612
+Uzbekistan,2044,High Ambition,policy_gap_wind,8467.772039691612
+Uzbekistan,2045,High Ambition,policy_gap_wind,8467.772039691612
+Uzbekistan,2046,High Ambition,policy_gap_wind,8467.772039691612
+Uzbekistan,2047,High Ambition,policy_gap_wind,8467.772039691612
+Uzbekistan,2048,High Ambition,policy_gap_wind,8467.772039691612
+Uzbekistan,2049,High Ambition,policy_gap_wind,8467.772039691612
+Uzbekistan,2050,High Ambition,policy_gap_wind,8467.772039691612

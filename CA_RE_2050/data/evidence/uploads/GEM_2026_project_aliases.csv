@@ -1,0 +1,17 @@
+Country/area,Plant / Project name,Unit / Phase name,Capacity (MW),Status,Start year,Owner(s),GEM location ID,GEM unit/phase ID
+Kyrgyzstan,Balykchy solar farm,--,400.0,pre-construction,,Fortis Kg; Molin Energy,L100001016504,G100001018351
+Kyrgyzstan,Kyzyl-Oruk solar farm,--,1900.0,announced,,Rox Energy Global,L100001061707,G100001070747
+Kyrgyzstan,Toru-Aigyr solar farm,1,100.0,pre-construction,2026.0,Bishkek Solar LLC [100%],L100000808655,G100000810907
+Kyrgyzstan,Toru-Aigyr solar farm,2,200.0,pre-construction,,Bishkek Solar LLC [100%],L100000808655,G100000834575
+Kazakhstan,Mirny wind farm,1,200.0,announced,2028.0,Total Eren SA [60%]; Samruk-Kazyna SWF JSC [20%]; National Company KazMunayGas JSC [20%],L100000916746,G100000920799
+Kazakhstan,Mirny wind farm,2,800.0,announced,,Total Eren SA [60%]; Samruk-Kazyna SWF JSC [20%]; National Company KazMunayGas JSC [20%],L100000916746,G100000920800
+Uzbekistan,Kungrad (ACWA Power) wind farm,1,500.0,pre-construction,2027.0,ACWA Power Co [51%]; Sumitomo Corp [49%],L100000922142,G100000927614
+Uzbekistan,Kungrad (ACWA Power) wind farm,2,500.0,pre-construction,2027.0,ACWA Power Co [51%]; Sumitomo Corp [49%],L100000922142,G100000927615
+Uzbekistan,Kungrad (ACWA Power) wind farm,3,500.0,pre-construction,2027.0,ACWA Power Co [51%]; Sumitomo Corp [49%],L100000922142,G100000927616
+Uzbekistan,Kungrad (ACWA Power) wind farm,4,500.0,announced,,ACWA Power Co [100%],L100000922142,G100001018583
+Uzbekistan,Kungrad (Sany Renewable) wind farm,--,1000.0,announced,,Sany Renewable Energy Co Ltd,L100001044985,G100001050562
+Kyrgyzstan,Kambarata-1 hydroelectric plant,,1860.0,construction,2034.0,Power Stations JSC (Elektricheskiye Stantsii) [100%],L100000602345,G100000602374
+Tajikistan,Rogun hydroelectric plant,,1200.0,operating,2018.0,State Committee on Investment and State Property Management (SCI) of the Republic of Tajikistan [100%],L100000603554,G100000603589
+Tajikistan,Rogun hydroelectric plant,,2400.0,construction,2026.0,State Committee on Investment and State Property Management (SCI) of the Republic of Tajikistan [100%],L100000603554,G100001051929
+Uzbekistan,Pskem hydroelectric plant,,400.0,construction,2026.0,JSC Uzbekgidroenergo [100%],L100000603979,G100000604018
+Uzbekistan,Upper Pskem Pumped Storage hydroelectric plant,,600.0,pre-construction,2030.0,JSC Uzbekgidroenergo [100%],L100000603981,G100000604020

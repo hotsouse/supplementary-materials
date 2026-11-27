@@ -1,0 +1,13 @@
+item,previous_source_class,action,approved_source_ids,treatment
+Project sources,Developer and other non-allowed publishers,replaced,A01;A02;A03;A04;A05;A08;A09,Only permitted publications now support retained inputs
+KZ national reference,Grid-company2025 total,removed and rebuilt,S1;N23,Use2024 IRENA total plus separately derived2025 capacity maturation; ministry renewable subset is not total RE
+UZ solar yield,External weighted design benchmark,replaced,A11;A06;A12,Main240/100 conservative normalization; source alternatives220/100 and270/100 stressed
+UZ wind yield,External project weighted benchmark,replaced,N13;N14,Main50/20 from ministry Charvak; single-site transfer is explicit
+UZ Guzar annual energy,Non-allowed project design figure,replaced by estimate,A05;A07;A11,Capacity300MW times approved solar yield; no longer labelled published design energy
+UZ Bukhara wind annual energy,Non-allowed project design figure,replaced by estimate,A08;N13,Capacity100MW times approved wind yield; no claim of source COD
+Zhanaozen wind component,No ministry replacement verified for this component,excluded,,No remaining quantitative input from developer site
+Former Pskem component,No allowed replacement verified for former component,excluded,A10,Upper Pskem160 is a separate new entry; not a renaming of former plant
+Project registry,Third-party registry,removed,,No third-party registry rows or their screening retained as model inputs
+Method interpretation,Other external method references,replaced,M1,IEA used for conditional-scenario interpretation only; custom equations and diagnostic choices are stated as authors work
+Karauzyak wind,Ministry inauguration report,not added to main portfolio,A09,Overlap with national2025 generation reference unresolved; not assumed entirely new
+TM solar prospective,Ministry new source,included conditionally,A04;S1,300MW prospective solar; energy estimated with transferred IRENA yield; date is author assumption
