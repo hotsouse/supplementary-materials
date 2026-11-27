@@ -1,0 +1,12 @@
+country,technology,yield_GWh_MW,method,source_ids
+Kazakhstan,solar,1.6391304207847543,national observed IRENA2020-24,S1
+Kazakhstan,wind,2.9439690489750787,national observed IRENA2020-24,S1
+Kyrgyzstan,solar,2.1,capacity-weighted source design output,N16
+Kyrgyzstan,wind,2.9439690489750787,explicit Kazakhstan transfer; not a regional estimate,S1
+Tajikistan,solar,1.6391304207847543,explicit Kazakhstan transfer; not a regional estimate,S1
+Tajikistan,wind,2.9439690489750787,explicit Kazakhstan transfer; not a regional estimate,S1
+Turkmenistan,solar,1.6391304207847543,explicit Kazakhstan transfer; not a regional estimate,S1
+Turkmenistan,wind,2.9439690489750787,explicit Kazakhstan transfer; not a regional estimate,S1
+Uzbekistan,solar,2.4,capacity-weighted source design output,A11
+Uzbekistan,wind,2.5,capacity-weighted source design output,N13;N14
+Kazakhstan,hydro,4.0158713213052915,2024 national hydro yield proxy for2025 capacity maturation; not project design,S1

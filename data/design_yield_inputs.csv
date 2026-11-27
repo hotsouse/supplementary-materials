@@ -1,0 +1,4 @@
+country,technology,project,capacity_MW,annual_GWh,source_ids,interpretation
+Kyrgyzstan,solar,Kemin,100,210,N16,source design
+Uzbekistan,solar,Sarimay,100,240,A11,conservative floor of source over240; not exact mean
+Uzbekistan,wind,Charvak,20,50,N13;N14,source design

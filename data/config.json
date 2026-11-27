@@ -1,0 +1,62 @@
+{
+  "version": "4.1 submission package",
+  "evidence_cutoff": "2026-11-09",
+  "projection_start": 2026,
+  "projection_end": 2050,
+  "programme_technologies": [
+    "solar",
+    "wind"
+  ],
+  "new_capacity_first_year_fraction": 0.5,
+  "normalized_hours": 8760,
+  "minimum_rate_observations": 4,
+  "minimum_rate_span_years": 3,
+  "long_window_start": 2015,
+  "recent_window_start": 2020,
+  "rate_end_year": 2025,
+  "stress_delays": [
+    3,
+    5
+  ],
+  "hydro_stress_factors": [
+    0.8,
+    1.2
+  ],
+  "programme_stress_factors": [
+    0.5,
+    1.5
+  ],
+  "baseline_stress_factors": [
+    0.9,
+    1.1
+  ],
+  "yield_stress_factors": [
+    0.8,
+    1.2
+  ],
+  "reference_erosion_stress": 0.01,
+  "minimum_local_CF_observations": 3,
+  "CF_year_start": 2020,
+  "CF_year_end": 2024,
+  "uncertainty_interpretation": "scenario sensitivity; no assigned probabilities",
+  "solar_alternative_yields_GWh_MW": [
+    2.2,
+    2.7
+  ],
+  "scope_alternative_UZ_GWh": 16800,
+  "short_history_KG_rate_MW_year": 50,
+  "kambarata_alternative_GWh": 5600,
+  "scenario_sensitivity": {
+    "delay_years": 3,
+    "estimated_yield_factors": [
+      0.8,
+      1.2
+    ],
+    "hydro_factors": [
+      0.8,
+      1.2
+    ],
+    "continuation_factor": 0.5,
+    "uzbek_policy_gap_delivery_factor": 0.5
+  }
+}
